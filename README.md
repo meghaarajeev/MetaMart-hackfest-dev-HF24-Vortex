@@ -108,6 +108,11 @@ Any dependencies are installed and then the CLI opens the scene in a new browser
 Learn more about how to build your own scenes in our [documentation](https://docs.decentraland.org/) site.
 
 If something doesn’t work, please [file an issue](https://github.com/decentraland-scenes/Awesome-Repository/issues/new).
+## Authors
+- [Megha Rajeev](https://github.com/meghaarajeev)
+- [Aswin Kumar](https://github.com/AswinkumarSt/AswinkumarSt)
+- [Rose Maria Dominic](https://github.com/rosedominic4)
+- [Job Philip George](https://github.com/Jobphilipgeorge)
 
 ## Copyright info
 
