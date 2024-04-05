@@ -1,4 +1,10 @@
 # MetaMart - Your Gateway to the Metaverse Market
+</p>
+ </div>
+ <br>
+ <p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-the-METAVERSE"/>
+</p>
 
 # Introduction
 Welcome to MetaMart, the ultimate virtual marketplace tailored to Instagram and Facebook small business owners. Our platform is designed to provide a seamless and immersive shopping experience within the metaverse, allowing businesses to showcase and sell their products in virtual environments.
