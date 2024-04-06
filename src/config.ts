@@ -4,11 +4,11 @@ export default {
     logo: {
         bottom: {
             //image should be 512px square
-            imgSrc: "images/logo.png",
+            imgSrc: "images/logo.jpg",
             position: new Vector3(6.96862, 5.72577, 7.34845)
         },
         top: {
-            name: "BRAND\nNAME",
+            name: "METAMART",
             fontSize: 6,
             color: new Color3(0.1, 0.1, 0.1),
             position: new Vector3(0, 5.84663, 6.39477)
@@ -16,9 +16,9 @@ export default {
     },
     socialMedia: [
         {
-            name: "HOMEPAGE",
+            name: "INSTAGRAM HOMEPAGE",
             model: "models/social_media/homepage.glb",
-            link: "https://www.decentraland.org",
+            link: "https://www.instagram.com/thatgirlmotive/",
             position: new Vector3(1.5, 1.3, -5.35)
         },
         {
@@ -28,9 +28,9 @@ export default {
             position: new Vector3(0.5, 1.3, -5.35)
         },
         {
-            name: "TWITTER",
+            name: "WISHLINK",
             model: "models/social_media/twitter.glb",
-            link: "https://www.twitter.com",
+            link: "https://wishlink.com/thatgirlmotive",
             position: new Vector3(-0.5, 1.3, -5.35)
         },
         {
@@ -41,57 +41,57 @@ export default {
         }
     ],
     videoScreen: {
-        src: "https://player.vimeo.com/external/552481870.m3u8?s=c312c8533f97e808fccc92b0510b085c8122a875",
+        src: "images/Video-286_resized.mp4",
         width: 1280,
         height: 720
     },
     wearable: [
         {
-            name: "Razor Blade Jacket",
+            name: "Korean Tees",
             model: "models/wearables/1.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://www.instagram.com/p/C3edbxRSDaz/?img_index=1",
             position: new Vector3(4.2, -0.1, 5.1),
             rotation: Quaternion.Euler(0, 0, 0)
         },
         {
-            name: "DCL Logo Hoddie",
+            name: "Trendy Tops",
             model: "models/wearables/2.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://www.instagram.com/p/C45aUhiyDvg/",
             position: new Vector3(-4.2, -0.1, 5.1),
             rotation: Quaternion.Euler(0, 0, 0)
         },
         {
             name: "Aviator",
             model: "models/wearables/3.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://www.instagram.com/p/C3edbxRSDaz/?igsh=MWhxZGw3eDZ4cXlwbg==",
             position: new Vector3(5.1, -1, -3.3),
             rotation: Quaternion.Euler(0, -90, 0)
         },
         {
             name: "Over9000", 
             model: "models/wearables/4.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://www.instagram.com/p/C3edbxRSDaz/?igsh=MWhxZGw3eDZ4cXlwbg==",
             position: new Vector3(-5.1, -1, -3.3),
             rotation: Quaternion.Euler(0, 90, 0)
         },
         {
             name: "Launch TShirt",
             model: "models/wearables/5.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://www.instagram.com/p/C3edbxRSDaz/?igsh=MWhxZGw3eDZ4cXlwbg==",
             position: new Vector3(0, -0.1, 0.7),
             rotation: Quaternion.Euler(0, 0, 0)
         },
         {
-            name: "CitySneakers",
+            name: "Budget Sneakers",
             model: "models/wearables/6.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://www.instagram.com/p/C4vaPS4oGbK/",
             position: new Vector3(1, 0.7, -0.7),
             rotation: Quaternion.Euler(0, 45, 0)
         },
         {
-            name: "Rollers",
+            name: "Flat Tops",
             model: "models/wearables/7.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://www.instagram.com/p/C5DtgxhStKA/",
             position: new Vector3(-1, 0.7, -0.7),
             rotation: Quaternion.Euler(0, -45, 0)
         },
