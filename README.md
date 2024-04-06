@@ -3,7 +3,10 @@
  </div>
  <br>
  <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-the-METAVERSE"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,9400D3&size=40&width=900&height=80&lines=Welcome-to-METAMART"/>
+
+
+
 </p>
 
 # Introduction
